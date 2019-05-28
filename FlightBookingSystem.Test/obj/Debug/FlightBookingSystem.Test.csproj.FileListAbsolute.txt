@@ -15,3 +15,6 @@ C:\Users\xdhru\Desktop\HymansCleanCodeTest (1)\HymansCleanCodeTest\FlightBooking
 C:\Users\xdhru\Desktop\HymansCleanCodeTest (1)\HymansCleanCodeTest\FlightBookingProblem\FlightBookingSystem.Test\bin\Debug\FlightBooking.Core.dll
 C:\Users\xdhru\Desktop\HymansCleanCodeTest (1)\HymansCleanCodeTest\FlightBookingProblem\FlightBookingSystem.Test\bin\Debug\FlightBooking.Core.pdb
 C:\Users\xdhru\Desktop\HymansCleanCodeTest (1)\HymansCleanCodeTest\FlightBookingProblem\FlightBookingSystem.Test\bin\Debug\FlightBooking.Console.pdb
+C:\Users\xdhru\Desktop\FlightBookingSystem-master (1)\FlightBookingSystem-master\FlightBookingSystem.Test\obj\Debug\FlightBookingSystem.Test.csprojResolveAssemblyReference.cache
+C:\Users\xdhru\Desktop\FlightBookingSystem-master (1)\FlightBookingSystem-master\FlightBookingSystem.Test\obj\Debug\FlightBookingSystem.Test.dll
+C:\Users\xdhru\Desktop\FlightBookingSystem-master (1)\FlightBookingSystem-master\FlightBookingSystem.Test\obj\Debug\FlightBookingSystem.Test.pdb
